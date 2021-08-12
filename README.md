@@ -26,7 +26,7 @@ npm start
 <img src="home.png">
 
 ### Deatils Page
-<img src="detalis.png">
+<img src="details.png">
 
 ### Edit Page
 <img src="edit.png">
