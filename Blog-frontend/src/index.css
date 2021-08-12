@@ -1,0 +1,30 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+@font-face {
+  font-family: "HKGrotesk";
+  src: local("HKGrotesk"), url(./fonts/HKGrotesk-Regular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "HKGrotesk";
+  font-weight: 700;
+  src: local("HKGrotesk"), url(./fonts/HKGrotesk-Bold.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "HKGrotesk";
+  font-weight: 900;
+  src: local("HKGrotesk"), url(./fonts/HKGrotesk-Black.otf) format("opentype");
+}
